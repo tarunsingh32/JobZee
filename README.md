@@ -33,7 +33,7 @@ To deploy this project run
 
 ![Screenshot (256)](https://github.com/tarunsingh32/JobZee/assets/128855711/370f722f-ab40-4bfa-8fbc-8129df637c8b)
 
-![Screenshot (256)](https://github.com/tarunsingh32/JobZee/assets/128855711/f61315ef-48a6-4073-a7ea-1dbb0b3f7410)
+
 
 ![Screenshot (258)](https://github.com/tarunsingh32/JobZee/assets/128855711/81b56c75-ad46-4c43-a06d-41e0995a53d2)
 
