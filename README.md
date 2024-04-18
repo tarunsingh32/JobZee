@@ -55,17 +55,6 @@ To run this project, you will need to add the following environment variables to
 
 ![Screenshot (262)](https://github.com/tarunsingh32/JobZee/assets/128855711/467bf450-13db-4f1b-a417-dd11a7cb6e4e)
 ![Screenshot (261)](https://github.com/tarunsingh32/JobZee/assets/128855711/85f75a34-9bdc-4337-98fb-f74fe66eb307)
-
-## Installation
-
-
-Install my-project with npm
-
-```bash
-  npm init
-  cd korporatape
-  
-```
     
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-kumar-singh-90150322a/)
